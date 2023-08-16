@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OkayHimanshi
+- 👋 Hi, I’m Himanshi
 - 👀 I’m interested in Artificial Intelligence and Data Science.
 - 🌱 I’m currently learning Java and DSA.
 - 📫 Email: himanshi8898@gmail.com
