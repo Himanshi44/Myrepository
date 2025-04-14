@@ -1,9 +1,28 @@
-- 👋 Hi, I’m Himanshi
-- 👀 I’m interested in Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning Web development and Python.
-- 📫 Email: himanshi8898@gmail.com
+# 👋 Hi, I’m Himanshi
 
-<!---
-Himanshi44/Himanshi44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 I’m passionate about **Artificial Intelligence, Data Science**, and solving real-world problems with data.
+
+🌱 Currently learning:
+- Python for Data Analysis
+- Machine Learning (via GeeksforGeeks course)
+- C++ for DSA prep (Striver A2Z Sheet)
+- Kaggle notebooks & projects
+- Web development (basics)
+
+🛠️ Tech Stack:
+- **Languages:** Python, C++, SQL, HTML/CSS
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Kaggle, Git & GitHub
+- **Upcoming:** Power BI, Scikit-learn
+
+📊 Projects:
+- 🔍 Black Friday Sales Data Analysis
+- 🔍 Exploratory Data Analysis (EDA) — *coming soon*
+- 🧠 Machine Learning models — *coming soon*
+- 📝 DSA Practice in C++ — *in progress*
+
+📬 Contact me:
+- 📧 Email: [himanshi8898@gmail.com](mailto:himanshi8898@gmail.com)
+- 💼 LinkedIn: *(https://www.linkedin.com/in/himanshibhati/)*
+
+ Always curious, always learning!
