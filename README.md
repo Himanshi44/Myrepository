@@ -4,7 +4,7 @@
 
 🌱 Currently learning:
 - Python for Data Analysis
-- Machine Learning (via GeeksforGeeks course)
+- Machine Learning 
 - C++ for DSA prep (Striver A2Z Sheet)
 - Kaggle notebooks & projects
 - Web development (basics)
